@@ -1,0 +1,8 @@
+main: com.lunarddosing.Main
+version: 1
+name: AutoBroadcast
+
+commands:
+   bcast:
+      description: Broadcast Your Messages!
+      permission: bcast.color
